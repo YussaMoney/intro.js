@@ -1,0 +1,23 @@
+{
+  "name": "intro",
+  "version": "1.0.0",
+  "description": "Learning Backend",
+  "homepage": "https://github.com/YussaMoney/intro.js#readme",
+  "bugs": {
+    "url": "https://github.com/YussaMoney/intro.js/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YussaMoney/intro.js.git"
+  },
+  "license": "ISC",
+  "author": "Azeez Yusuf",
+  "type": "commonjs",
+  "main": "intro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
